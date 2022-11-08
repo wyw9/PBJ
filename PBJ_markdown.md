@@ -9,17 +9,7 @@ In 1901, Julia Davis Chandler wrote in [The Boston Cooking School Magazine of Cu
 
 ## Ingredients
 
-![Sliced bread.](media/bread.jpg)
-
-["Sliced fresh bread"](https://foto.wuestenigel.com/sliced-fresh-bread/) by Marco Verch licensed under [CC by 2.0](https://creativecommons.org/licenses/by/2.0/)
-
-![Peanut butter](media/peanut_butter.jpg)
-
-["Peanut Butter"](https://www.flickr.com/photos/niaid/25419964715) by NIAID licensed under [CC by 2.0](https://creativecommons.org/licenses/by/2.0/)
-
-![Jars of jam.](media/jelly.jpg)
-
-["Raspberry jam - still hot"](https://www.flickr.com/photos/conall/24046385922/in/photolist-CCU1LJ-8AyPst-2mFmqg3-fsiV4F-2jL9aGz-XKqoJw-2VKzN-2gQqWcy-a71jK9-2nCUjFF-4Tapdw-27Qj8RB-8yYG8J-5XZc81-duKBoj-w8Nwp4-2mWqtuD-2n7WTA2-ayhT1s-2kKqcSY-X1ZXm2-5rWzz4-8wv9CS-9TRsaq-eytHjL-2MDgvM-6TTPiH-7CNZBz-aY1p8B-ciXQcu-niMrx1-cEdCMd-59iDGa-8MK4GE-hUn5n-cD9izo-9nkZkV-wGxAHe-bijv2z-2icnYUX-a4jzDp-3q5uM-ofgwpK-QsQYew-MBvta-21s9gjs-6ydy2q-9mi9VX-2VKvv-ousDw3) by Conall licensed under [CC by 2.0](https://creativecommons.org/licenses/by/2.0/)
+![Sliced bread.](media/bread.jpg)![Peanut butter](media/peanut_butter.jpg)![Jars of jam.](media/jelly.jpg)["Raspberry jam - still hot"](https://www.flickr.com/photos/conall/24046385922/in/photolist-CCU1LJ-8AyPst-2mFmqg3-fsiV4F-2jL9aGz-XKqoJw-2VKzN-2gQqWcy-a71jK9-2nCUjFF-4Tapdw-27Qj8RB-8yYG8J-5XZc81-duKBoj-w8Nwp4-2mWqtuD-2n7WTA2-ayhT1s-2kKqcSY-X1ZXm2-5rWzz4-8wv9CS-9TRsaq-eytHjL-2MDgvM-6TTPiH-7CNZBz-aY1p8B-ciXQcu-niMrx1-cEdCMd-59iDGa-8MK4GE-hUn5n-cD9izo-9nkZkV-wGxAHe-bijv2z-2icnYUX-a4jzDp-3q5uM-ofgwpK-QsQYew-MBvta-21s9gjs-6ydy2q-9mi9VX-2VKvv-ousDw3) by Conall licensed under [CC by 2.0](https://creativecommons.org/licenses/by/2.0/)
 
 
 
@@ -76,8 +66,9 @@ Popularity of various jellies and jelly alternatives:
 
 ## Assembly
 
-Video of Joy making a sandwich
+!?[Making a sandwich](media/sandwich_creation.mp4)
 
+?[sound](link to sound file)
 ## Consumption
 What are the instructions for eating a peanut butter and jelly sandwich?
 
@@ -111,20 +102,19 @@ while SANDWICH:
 
 What do you need to create traditional a peanut butter and jelly sandwich? Check all that apply.
 
-- Bread
-- Peanut Butter
-- Lettuce
-- Jelly
+[[x]] Bread
+[[x]] Peanut Butter
+[[ ]] Lettuce
+[[x]] Jelly
+[[?]] You can choose more than one correct answer!
 
-Hint: You can choose more than one correct answer!
-
-***
+<div class = "answer">
 
 Answer:
 
 A traditional PB&J needs peanut butter, jelly, and bread! Lettuce isn't a traditional component.
 
-***
+</div>
 
 Which of these is NOT an acceptable type of bread for a peanut butter and jelly sandwich?
 
